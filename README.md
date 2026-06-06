@@ -133,7 +133,7 @@ $$
 R^2 = 0.8934
 $$
 
-**Status: PASS ✅**
+**Status: PASS **
 
 ---
 

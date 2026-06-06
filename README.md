@@ -154,9 +154,6 @@ $$
 ├── CIR_Project.ipynb
 ├── README.md
 ├── requirements.txt
-├── data/
-├── figures/
-└── results/
 ```
 
 ---
